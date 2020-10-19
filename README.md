@@ -16,7 +16,7 @@ O `ideb_brasil_ensino_medio` contem como atributo os valores dos indicadores uti
 #Instale o pacote devtoools caso ainda não tenha instalado
 #install.packages(devtools)
 
-#instala o pacote opendatabr
+#instala o pacote idebr
 devtools::install_github("jonates/idebr")
 ```
 

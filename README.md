@@ -1,8 +1,6 @@
-# idebr
+# idebr <a href='https://curso-r.github.io/idebr'><img src="https://github.com/jonates/images/blob/master/hex_stickers/idebr.png?raw=true" align="right" width="120.216" height="139" /></a>
 
-<img src="https://github.com/jonates/images/blob/master/hex_stickers/idebr.png?raw=true" width="100" height="115.625" />
-
-Este pacote disponibiliza datasets, com informações do IDEB - indice de desenvolvimento da educação basica, com diversas estratificacoes, ja no formato tidy, apropriado para geracao de visualizacao em ggplot2 e que podem serem utilizadas em aplicacoes no R.
+Este pacote disponibiliza datasets, com informações do IDEB - indice de desenvolvimento da educação basica, com as devidas desagregacoes e estratificacoes,ja no formato tidy, apropriado para geracao de visualizacao em ggplot2 e que podem serem utilizadas em aplicacoes no R.
 
 Atualmente disponibiliza 3 conjuntos de dados:
 

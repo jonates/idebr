@@ -15,10 +15,10 @@ O ``ideb_brasil_ensino_medio`` contem como atributo os valores dos indicadores u
 #install.packages(devtools)
 
 #instala o pacote opendatabr
-devtools::install_github("jonates/opendatabr")
+devtools::install_github("jonates/ideb")
 
 #carrega a base do ideb do ensino médio do Brasil
-df <- opendatabr::ideb_brasil_ensino_medio
+df <- ideb::ideb_brasil_ensino_medio
 
 #Plot o gráfico do IDEB do Brasil, por ano e por rede de ensino.
 ggplot2::ggplot(data = df) +

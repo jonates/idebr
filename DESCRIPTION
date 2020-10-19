@@ -1,4 +1,4 @@
-Package: opendatabr
+Package: ideb
 Title: Conjuntos de dados do ideb - índice de desenvolvimento da educação básica do Brasil
 Version: 0.0.0.9000
 Authors@R: c(person("Jonatas", "Silva do Espirito Santo", email = "jonates@gmail.com", role = c("aut", "cre")),person("Cleiton", "Otávio da Exaltação Rocha", email = "cleitonrocha@sei.ba.gov.br", role = "ctb"))

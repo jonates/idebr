@@ -3,7 +3,7 @@
 \docType{data}
 \name{ideb_brasil_ensino_medio}
 \alias{ideb_brasil_ensino_medio}
-\title{IDEB do Ensino Medio - Brasil}
+\title{IDEB do Ensino Medio Brasil}
 \format{ideb_brasil_ensino_medio}
 \source{
 ideb_brasil_ensino_medio

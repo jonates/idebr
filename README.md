@@ -1,4 +1,8 @@
-# ideb
+# idebr
+
+<img src="https://github.com/jonates/images/blob/master/hex_stickers/idebr.png?raw=true" width="100" height="115.625" />
+
+
 
 Este pacote disponibiliza datasets com ideb - indice de desenvolvimento da educação basica, com diversas estratificacoes, e que podem serem utilizadas em aplicacoes no R.
 

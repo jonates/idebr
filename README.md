@@ -12,7 +12,7 @@ Atualmente disponibiliza 3 conjuntos de dados:
 
 O ``ideb_brasil_ensino_medio`` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
-###Instalacao
+### Instalacao
 
 ~~~R
 #Instale o pacote devtoools caso ainda não tenha instalado
@@ -23,7 +23,7 @@ devtools::install_github("jonates/idebr")
 
 ~~~
 
-###Exemplo
+### Exemplo
 
 ~~~R
 #carrega a base do ideb do ensino médio do Brasil

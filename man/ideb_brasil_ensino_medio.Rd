@@ -12,6 +12,7 @@ ideb::ideb_brasil_ensino_medio
 }
 \format{
 [,1] pais
+
 [,2] rede
 [,3] taxa_de_aprovacao_total 
 [,4] taxa_de_aprovacao_1_ano

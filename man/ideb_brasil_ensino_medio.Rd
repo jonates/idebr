@@ -11,7 +11,6 @@ O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utili
 ideb::ideb_brasil_ensino_medio
 }
 \format{
-
 [,1] pais
 [,2] rede
 [,3] taxa_de_aprovacao_total
@@ -25,7 +24,6 @@ ideb::ideb_brasil_ensino_medio
 [,11] nota_SAEB_media_padronizada
 [,12] IDEB
 [,13] meta
-
 }
 \author{
 Jonatas Silva do Espirito Santo

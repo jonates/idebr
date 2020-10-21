@@ -13,17 +13,17 @@ ideb::ideb_brasil_ensino_medio
 \format{
 [,1] pais
 [,2] rede
-[,3] taxa_de_aprovacao_total
-[,4] taxa_de_aprovacao_1_ano
-[,5] taxa_de_aprovacao_2_ano
-[,6] taxa_de_aprovacao_3_ano
-[,7] taxa_de_aprovacao_4_ano
-[,8] taxa_de_aprovacao_indicador_de_rendimento
-[,9] nota_SAEB_matematica
-[,10] nota_SAEB_lingua_portuguesa
-[,11] nota_SAEB_media_padronizada
-[,12] IDEB
-[,13] meta
+[,3] taxa_de_aprovacao_total \n
+[,4] taxa_de_aprovacao_1_ano \n
+[,5] taxa_de_aprovacao_2_ano \n
+[,6] taxa_de_aprovacao_3_ano \n
+[,7] taxa_de_aprovacao_4_ano \n
+[,8] taxa_de_aprovacao_indicador_de_rendimento \n
+[,9] nota_SAEB_matematica \n
+[,10] nota_SAEB_lingua_portuguesa \n
+[,11] nota_SAEB_media_padronizada \n
+[,12] IDEB \n
+[,13] meta \n
 }
 \author{
 Jonatas Silva do Espirito Santo

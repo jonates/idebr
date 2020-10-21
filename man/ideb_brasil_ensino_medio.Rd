@@ -4,18 +4,11 @@
 \name{ideb_brasil_ensino_medio}
 \alias{ideb_brasil_ensino_medio}
 \title{IDEB do Ensino Medio Brasil}
-\format{ideb_brasil_ensino_medio}
-\source{
-ideb_brasil_ensino_medio
-}
-\usage{
-ideb::ideb_brasil_ensino_medio
-}
 \description{
 O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 }
-\author{
-Jonatas Silva do Espirito Santo
+\usage{
+ideb::ideb_brasil_ensino_medio
 }
 \format{
 
@@ -33,6 +26,12 @@ Jonatas Silva do Espirito Santo
 [,12] IDEB
 [,13] meta
 
+}
+\author{
+Jonatas Silva do Espirito Santo
+}
+\source{
+ideb_brasil_ensino_medio
 }
 \keyword{datasets}
 

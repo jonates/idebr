@@ -17,5 +17,22 @@ O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utili
 \author{
 Jonatas Silva do Espirito Santo
 }
+\format{
+
+[,1] pais
+[,2] rede
+[,3] taxa_de_aprovacao_total
+[,4] taxa_de_aprovacao_1_ano
+[,5] taxa_de_aprovacao_2_ano
+[,6] taxa_de_aprovacao_3_ano
+[,7] taxa_de_aprovacao_4_ano
+[,8] taxa_de_aprovacao_indicador_de_rendimento
+[,9] nota_SAEB_matematica
+[,10] nota_SAEB_lingua_portuguesa
+[,11] nota_SAEB_media_padronizada
+[,12] IDEB
+[,13] meta
+
+}
 \keyword{datasets}
 

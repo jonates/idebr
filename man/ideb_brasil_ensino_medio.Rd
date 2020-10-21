@@ -11,19 +11,18 @@ O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utili
 ideb::ideb_brasil_ensino_medio
 }
 \format{
-[,1] pais
-
-[,2] rede
-[,3] taxa_de_aprovacao_total 
-[,4] taxa_de_aprovacao_1_ano
-[,5] taxa_de_aprovacao_2_ano
-[,6] taxa_de_aprovacao_3_ano
-[,7] taxa_de_aprovacao_4_ano
-[,8] taxa_de_aprovacao_indicador_de_rendimento
-[,9] nota_SAEB_matematica
-[,10] nota_SAEB_lingua_portuguesa
-[,11] nota_SAEB_media_padronizada
-[,12] IDEB
+[,1] pais \cr
+[,2] rede \cr
+[,3] taxa_de_aprovacao_total \cr
+[,4] taxa_de_aprovacao_1_ano \cr
+[,5] taxa_de_aprovacao_2_ano \cr
+[,6] taxa_de_aprovacao_3_ano \cr
+[,7] taxa_de_aprovacao_4_ano \cr
+[,8] taxa_de_aprovacao_indicador_de_rendimento \cr
+[,9] nota_SAEB_matematica \cr
+[,10] nota_SAEB_lingua_portuguesa \cr
+[,11] nota_SAEB_media_padronizada \cr
+[,12] IDEB \cr
 [,13] meta
 }
 \author{

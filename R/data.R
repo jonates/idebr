@@ -11,3 +11,10 @@
 #'
 #' @source ideb_brasil_fundamental_finais
 'ideb_brasil_fundamental_finais'
+#'
+#' ideb_brasil_fundamental_iniciais
+#'
+#' @format ideb_brasil_fundamental_iniciais
+#'
+#' @source ideb_brasil_fundamental_iniciais
+'ideb_brasil_fundamental_iniciais'

@@ -31,7 +31,8 @@ devtools::install_github("jonates/idebr")
 df <- idebr::ideb_brasil_ensino_medio
 
 #Plot o gráfico do IDEB do Brasil, por ano e por rede de ensino.
-ggplot2::ggplot(data = df) +
+library(ggplot2)
+ggplot(data = df) +
   geom_point(aes(x=ano,y=IDEB,colour=rede))
 ```
 

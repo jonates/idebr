@@ -11,19 +11,24 @@ O ideb_escolas_fundamental_finais contem como atributo os valores dos indicadore
 ideb::ideb_escolas_fundamental_finais
 }
 \format{
-[,1] pais \cr
-[,2] rede \cr
-[,3] aprovacao_total \cr
-[,4] aprovacao_6_ano \cr
-[,5] aprovacao_7_ano \cr
-[,6] aprovacao_8_ano \cr
-[,7] aprovacao_9_ano \cr
-[,8] rendimento \cr
-[,9] nota_matematica \cr
-[,10] nota_portugues \cr
-[,11] nota_media \cr
-[,12] ideb \cr
-[,13] meta
+[,1] sigla_uf \cr
+[,2] cod_municipio \cr
+[,3] nome_municipio \cr
+[,4] id_escola \cr
+[,5] nome_escola \cr
+[,6] rede \cr
+[,7] ano \cr
+[,8] aprovacao_total \cr
+[,9] aprovacao_6_ano \cr
+[,10] aprovacao_7_ano \cr
+[,11] aprovacao_8_ano \cr
+[,12] aprovacao_9_ano \cr
+[,13] rendimento \cr
+[,14] nota_matematica \cr
+[,15] nota_portugues \cr
+[,16] nota_media \cr
+[,17] ideb \cr
+[,18] meta
 }
 \author{
 Jonatas Silva do Espirito Santo

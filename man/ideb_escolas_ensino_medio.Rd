@@ -11,19 +11,24 @@ O ideb_escolas_ensino_medio contem como atributo os valores dos indicadores util
 ideb::ideb_escolas_ensino_medio
 }
 \format{
-[,1] pais \cr
-[,2] rede \cr
-[,3] taxa_de_aprovacao_total \cr
-[,4] taxa_de_aprovacao_1_ano \cr
-[,5] taxa_de_aprovacao_2_ano \cr
-[,6] taxa_de_aprovacao_3_ano \cr
-[,7] taxa_de_aprovacao_4_ano \cr
-[,8] taxa_de_aprovacao_indicador_de_rendimento \cr
-[,9] nota_SAEB_matematica \cr
-[,10] nota_SAEB_lingua_portuguesa \cr
-[,11] nota_SAEB_media_padronizada \cr
-[,12] IDEB \cr
-[,13] meta
+[,1] sigla_uf \cr
+[,2] cod_municipio \cr
+[,3] nome_municipio \cr
+[,4] id_escola \cr
+[,5] nome_escola \cr
+[,6] rede \cr
+[,7] ano \cr
+[,8] aprovacao_total \cr
+[,9] aprovacao_1_ano \cr
+[,10] aprovacao_2_ano \cr
+[,11] aprovacao_3_ano \cr
+[,12] aprovacao_4_ano \cr
+[,13] rendimento \cr
+[,14] nota_matematica \cr
+[,15] nota_portugues \cr
+[,16] nota_media \cr
+[,17] ideb \cr
+[,18] meta
 }
 \author{
 Jonatas Silva do Espirito Santo

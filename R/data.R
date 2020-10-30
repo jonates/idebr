@@ -25,3 +25,10 @@
 #'
 #' @source ideb_escolas_ensino_medio
 'ideb_escolas_ensino_medio'
+#'
+#' ideb_escolas_fundamental_finais
+#'
+#' @format ideb_escolas_fundamental_finais
+#'
+#' @source ideb_escolas_fundamental_finais
+'ideb_escolas_fundamental_finais'

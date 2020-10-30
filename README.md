@@ -15,6 +15,8 @@ O `ideb_brasil_fundamental_finais` contem como atributo os valores dos indicador
 
 O `ideb_brasil_ensino_medio` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
+O `ideb_escolas_fundamental_finais` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das series finais (6º ao 9º ano) do ensino fundamental para as escolas do Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
+
 O `ideb_escolas_ensino_medio` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para as escolas do Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
 ## Instalacao
@@ -46,5 +48,5 @@ Estrato    | Fundamental - iniciais | Fundamental - finais | Ensino Medio       
 Brasil     | ok | ok | ok
 UF         | - | - | -
 Municipios | - | - | -
-Escolas    | - | - | ok
+Escolas    | - | ok | ok
 

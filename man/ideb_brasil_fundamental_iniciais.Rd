@@ -3,15 +3,34 @@
 \docType{data}
 \name{ideb_brasil_fundamental_iniciais}
 \alias{ideb_brasil_fundamental_iniciais}
-\title{ideb_brasil_fundamental_iniciais}
-\format{ideb_brasil_fundamental_iniciais}
-\source{
-ideb_brasil_fundamental_iniciais
+\title{IDEB das series iniciais do ensino fundamental do Brasil}
+\description{
+O ideb_brasil_fundamental_iniciais contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das series iniciais do ensino fundamental para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 }
 \usage{
 ideb_brasil_fundamental_iniciais
 }
-\description{
+\format{
+[,1] pais \cr
+[,2] rede \cr
+[,3] ano \cr
+[,4] aprovacao_total \cr
+[,5] aprovacao_1_ano \cr
+[,6] aprovacao_2_ano \cr
+[,7] aprovacao_3_ano \cr
+[,8] aprovacao_4_ano \cr
+[,9] aprovacao_5_ano \cr
+[,10] rendimento \cr
+[,11] nota_matematica \cr
+[,12] nota_portugues \cr
+[,13] nota_media \cr
+[,14] ideb \cr
+[,15] meta
+}
+\author{
+Jonatas Silva do Espirito Santo
+}
+\source{
 ideb_brasil_fundamental_iniciais
 }
 \keyword{datasets}

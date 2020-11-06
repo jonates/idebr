@@ -5,7 +5,7 @@
 \alias{ideb_brasil_ensino_medio}
 \title{IDEB do Ensino Medio Brasil}
 \description{
-O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
+O ideb_brasil_ensino_medio contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 }
 \usage{
 ideb::ideb_brasil_ensino_medio
@@ -13,17 +13,18 @@ ideb::ideb_brasil_ensino_medio
 \format{
 [,1] pais \cr
 [,2] rede \cr
-[,3] taxa_de_aprovacao_total \cr
-[,4] taxa_de_aprovacao_1_ano \cr
-[,5] taxa_de_aprovacao_2_ano \cr
-[,6] taxa_de_aprovacao_3_ano \cr
-[,7] taxa_de_aprovacao_4_ano \cr
-[,8] taxa_de_aprovacao_indicador_de_rendimento \cr
-[,9] nota_SAEB_matematica \cr
-[,10] nota_SAEB_lingua_portuguesa \cr
-[,11] nota_SAEB_media_padronizada \cr
-[,12] IDEB \cr
-[,13] meta
+[,3] ano \cr
+[,4] aprovacao_total \cr
+[,5] aprovacao_1_ano \cr
+[,6] aprovacao_2_ano \cr
+[,7] aprovacao_3_ano \cr
+[,8] aprovacao_4_ano \cr
+[,9] rendimento \cr
+[,10] nota_matematica \cr
+[,11] nota_portugues \cr
+[,12] nota_media \cr
+[,13] ideb \cr
+[,14] meta
 }
 \author{
 Jonatas Silva do Espirito Santo

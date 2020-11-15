@@ -2,12 +2,12 @@
 
 Este pacote disponibiliza datasets, com informações do IDEB - indice de desenvolvimento da educação basica, com as devidas desagregacoes e estratificacoes,ja no formato tidy, apropriado para geracao de visualizacao em ggplot2 e que podem serem utilizadas em aplicacoes no R.
 
-Atualmente disponibiliza 5 conjuntos de dados:
+Atualmente disponibiliza 6 conjuntos de dados:
 
 1.  `ideb_brasil_fundamental_iniciais`
 1.  `ideb_brasil_fundamental_finais`
 1.  `ideb_brasil_ensino_medio`
-1.  `ideb_escolas_fundamental_iniciais
+1.  `ideb_escolas_fundamental_iniciais`
 1.  `ideb_escolas_fundamental_finais``
 1.  `ideb_escolas_ensino_medio`
 
@@ -34,6 +34,10 @@ O `ideb_escolas_ensino_medio` contem como atributo os valores dos indicadores ut
 #instala o pacote idebr
 devtools::install_github("jonates/idebr")
 ```
+## Instalacao
+Apos a instalacao do pacote `idebr` para carregar um pacote basta digitar no script `idebr::nomedodataset`. Caso esteja no RStudio, basta digitar `ideb::` e apertar a tecla `tab` que o autocompletar do RStudio vai mostrar todos os conjuntos de dados disponiveis no pacote `idebr` para que voce possa escolher, conforme imagem abaixo:
+
+<img src="https://raw.githubusercontent.com/jonates/idebr/main/carregando_dataset.png"/>
 
 ## Exemplo
 

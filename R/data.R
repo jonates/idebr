@@ -32,3 +32,10 @@
 #'
 #' @source ideb_escolas_fundamental_finais
 'ideb_escolas_fundamental_finais'
+#'
+#' ideb_escolas_fundamental_iniciais
+#'
+#' @format ideb_escolas_fundamental_iniciais
+#'
+#' @source ideb_escolas_fundamental_iniciais
+'ideb_escolas_fundamental_iniciais'

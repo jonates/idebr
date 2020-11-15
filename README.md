@@ -37,9 +37,9 @@ devtools::install_github("jonates/idebr")
 ## Instalacao
 Apos a instalacao do pacote `idebr` para carregar um pacote basta digitar no script `idebr::nomedodataset`. Caso esteja no RStudio, basta digitar `ideb::` e apertar a tecla `tab` que o autocompletar do RStudio vai mostrar todos os conjuntos de dados disponiveis no pacote `idebr` para que voce possa escolher, conforme imagem abaixo:
 
-<img src="https://raw.githubusercontent.com/jonates/idebr/main/carregando_dataset.png"/>
+<https://raw.githubusercontent.com/jonates/idebr/main/carregando_dados.png"/>
 
-## Exemplo
+## Exemplo 1
 
 ``` {.r}
 #carrega a base do ideb do ensino médio do Brasil

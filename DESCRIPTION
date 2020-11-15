@@ -2,7 +2,7 @@ Package: idebr
 Title: Conjuntos de dados do ideb - índice de desenvolvimento da educação básica do Brasil
 Version: 0.0.0.9000
 Authors@R: c(person("Jonatas", "Silva do Espirito Santo", email = "jonates@gmail.com", role = c("aut", "cre")),person("Cleiton", "Otávio da Exaltação Rocha", email = "cleitonotavio058@gmail.com", role = "ctb"))
-Description: Este pacote disponibiliza datasets com ideb - indice de desenvolvimento da educação basica. Com diversas estratificacoes, podem serem utilizadas em aplicacoes no R.
+Description: Este pacote disponibiliza conjuntos de dados, com informações do IDEB - índice de desenvolvimento da educação básica, com as devidas desagregações e estratificações, já no formato tidy, apropriado para geração de visualizações em ggplot2 e que podem serem utilizados em diversas aplicações no R.
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
 Encoding: UTF-8

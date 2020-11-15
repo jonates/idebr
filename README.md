@@ -7,7 +7,8 @@ Atualmente disponibiliza 5 conjuntos de dados:
 1.  `ideb_brasil_fundamental_iniciais`
 1.  `ideb_brasil_fundamental_finais`
 1.  `ideb_brasil_ensino_medio`
-1.  `ideb_escolas_fundamental_finais`
+1.  `ideb_escolas_fundamental_iniciais
+1.  `ideb_escolas_fundamental_finais``
 1.  `ideb_escolas_ensino_medio`
 
 O `ideb_brasil_fundamental_iniciais` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das séries iniciais (1º ao 5º ano) do ensino fundamental para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
@@ -16,6 +17,7 @@ O `ideb_brasil_fundamental_finais` contem como atributo os valores dos indicador
 
 O `ideb_brasil_ensino_medio` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
+O `ideb_escolas_fundamental_iniciais` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das series iniciais (1º ao 5º ano) do ensino fundamental para as escolas do Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
 O `ideb_escolas_fundamental_finais` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das series finais (6º ao 9º ano) do ensino fundamental para as escolas do Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
@@ -53,5 +55,5 @@ Brasil     | ok | ok | ok
 Regioes    | - | - | -
 UF         | - | - | -
 Municipios | - | - | -
-Escolas    | - | ok | ok
+Escolas    | ok | ok | ok
 

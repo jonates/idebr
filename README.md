@@ -49,6 +49,7 @@ ggplot(data = df) +
 
 <img src="https://raw.githubusercontent.com/jonates/idebr/main/diagrama_dispersao_Brasil_EM.png" align="left" width="563" height="236"/>
 
+
 ## Roadmap
 
 Estrato    | Fundamental - iniciais | Fundamental - finais | Ensino Medio             |

@@ -58,9 +58,9 @@ ggplot(data = df) +
 
 Estrato    | Fundamental - iniciais | Fundamental - finais | Ensino Medio             |
 ---------- | :--------------------: | :------------------: | :----------:
-Brasil     | ok | ok | ok
+Brasil     | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark:
 Regioes    | - | - | -
 UF         | - | - | -
 Municipios | - | - | -
-Escolas    | ok | ok | :heavy\_check\_mark:
+Escolas    | :heavy\_check\_mark: | :heavy\_check\_mark: | :heavy\_check\_mark:
 

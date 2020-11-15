@@ -7,7 +7,7 @@ Atualmente disponibiliza 6 conjuntos de dados:
 1.  `ideb_fundamental_iniciais_brasil`
 1.  `ideb_fundamental_iniciais_escolas`
 1.  `ideb_fundamental_finais_brasil`
-1.  `ideb_fundamental_finais_escolas``
+1.  `ideb_fundamental_finais_escolas`
 1.  `ideb_ensino_medio_brasil`
 1.  `ideb_ensino_medio_escolas`
 
@@ -41,7 +41,7 @@ Apos a instalacao do pacote `idebr` para carregar um conjunto de dados basta dig
 
 ``` {.r}
 #carrega a base do ideb do ensino médio do Brasil
-df <- idebr::ideb_brasil_ensino_medio
+df <- idebr::ideb_ensino_medio_brasil
 
 #Plot o gráfico do IDEB do Brasil, por ano e por rede de ensino.
 library(ggplot2)
@@ -62,5 +62,5 @@ Brasil     | ok | ok | ok
 Regioes    | - | - | -
 UF         | - | - | -
 Municipios | - | - | -
-Escolas    | ok | ok | ok
+Escolas    | ok | ok | :heavy\_check\_mark:
 

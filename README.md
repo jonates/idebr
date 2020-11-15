@@ -47,7 +47,7 @@ ggplot(data = df) +
   geom_point(aes(x=ano,y=ideb,colour=rede))
 ```
 
-src="https://github.com/jonates/idebr/blob/main/diagrama_dispersao_Brasil_EM.png?raw=true" align="right" width="563" height="236"/></a>
+src="https://raw.githubusercontent.com/jonates/idebr/main/diagrama_dispersao_Brasil_EM.png" align="right" width="563" height="236"/></a>
 
 ## Roadmap
 

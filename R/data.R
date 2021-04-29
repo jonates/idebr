@@ -39,3 +39,10 @@
 #'
 #' @source ideb_fundamental_iniciais_escolas
 'ideb_fundamental_iniciais_escolas'
+#'
+#' censo_escolar_2019_escolas
+#'
+#' @format censo_escolar_2019_escolas
+#'
+#' @source censo_escolar_2019_escolas
+'censo_escolar_2019_escolas'

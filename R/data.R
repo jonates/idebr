@@ -46,3 +46,11 @@
 #'
 #' @source censo_escolar_2019_escolas
 'censo_escolar_2019_escolas'
+#'
+#' censo_escolar_2019_docentes_centro_oeste
+#'
+#' @format censo_escolar_2019_docentes_centro_oeste
+#'
+#' @source censo_escolar_2019_docentes_centro_oeste
+'censo_escolar_2019_docentes_centro_oeste'
+

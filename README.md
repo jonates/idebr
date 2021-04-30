@@ -2,7 +2,7 @@
 
 Este pacote disponibiliza conjuntos de dados, com informações do IDEB - índice de desenvolvimento da educação básica, com as devidas desagregações e estratificações, já no formato tidy, apropriado para geração de visualizações em ggplot2 e que podem serem utilizados em diversas aplicações no R.
 
-Atualmente disponibiliza 6 conjuntos de dados:
+Atualmente disponibiliza 7 conjuntos de dados:
 
 1.  `ideb_fundamental_iniciais_brasil`
 1.  `ideb_fundamental_iniciais_escolas`
@@ -11,6 +11,7 @@ Atualmente disponibiliza 6 conjuntos de dados:
 1.  `ideb_ensino_medio_brasil`
 1.  `ideb_ensino_medio_escolas`
 1.  `censo_escolar_2019_escolas`
+1.  `censo_escolar_2019_docentes_centro_oeste`
 
 O `ideb_fundamental_iniciais_brasil` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB das séries iniciais (1º ao 5º ano) do ensino fundamental para o Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2005, 2007, 2009, 2013, 2015, 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
@@ -25,6 +26,8 @@ O `ideb_ensino_medio_brasil` contem como atributo os valores dos indicadores uti
 O `ideb_ensino_medio_escolas` contem como atributo os valores dos indicadores utilizados para o calculo do IDEB do ensino medio para as escolas do Brasil, como as taxas de aprovacoes (por serie) e as notas da prova SAEB. Conta tambem com o valor do IDEB e as metas para os anos de 2017 e 2019. Tambem estratifica essas informacoes pela rede de ensino.
 
 O `censo_escolar_2019_escolas` contem diversos atributos de escolas da educacao basica do Brasil no ano de 2019. Os dados sao oriundos do censo escolar, levantamento de dados realizado pelo Ministerio da Educacao do Brasil (MEC) juntos as escolas e disponibilizado pelo INEP -  Instituto Nacional de Estudos e Pesquisas Educacionais Anisio Teixeira.
+
+O `censo_escolar_2019_docentes_centro_oeste` contem diversos atributos de docentes da educacao basica do Centro Oeste do Brasil no ano de 2019. Os dados sao oriundos do censo escolar, levantamento de dados realizado pelo Ministerio da Educacao do Brasil (MEC) juntos as escolas e disponibilizado pelo INEP -  Instituto Nacional de Estudos e Pesquisas Educacionais Anisio Teixeira.
 
 ## Instalacao
 
